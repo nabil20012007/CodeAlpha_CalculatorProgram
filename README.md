@@ -24,8 +24,8 @@ Getting Started
 Clone this repository or download the calculator.c source file to your local machine:
 
 Bash
-git clone https://github.com/your-username/codealpha-calculator.git
-cd codealpha-calculator
+git clone https://github.com/nabil20012007/CodeAlpha_CalculatorProgram.git
+cd CodeAlpha_CalculatorProgram
 2. Compile the Code
 Compile the source file using gcc:
 
